@@ -9,11 +9,15 @@ public class javacoments {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        // Prints a
+        int d = sc.nextInt();
+        // Print a
         System.out.println(a);
-        // Prints b
-        // System.out.println(b);
-        // Prints c
+        // Print b
+        System.out.println(b);
+        // Print c
         System.out.println(c);
+        // print d
+        System.out.println(d);
+
     }
 }

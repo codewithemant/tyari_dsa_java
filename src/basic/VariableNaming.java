@@ -1,5 +1,4 @@
 package basic;
-
 public class VariableNaming {
     static void main(String[] args) {
         int hemant = 100;
@@ -8,6 +7,5 @@ public class VariableNaming {
         /* ! @ # $ % ^ & * ( ) _ + - = [ ] { } ? \ | : ; ' " . , > < ? ~  are not valid in variable
         expect _ and $
     */
-
     }
 }

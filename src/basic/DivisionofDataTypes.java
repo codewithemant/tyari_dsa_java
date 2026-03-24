@@ -2,8 +2,10 @@ package basic;
 
 public class DivisionofDataTypes {
     static void main(String[] args) {
-        double x= 5/2;
+        double x= 5/2.0;
         System.out.println(x);
 
     }
 }
+
+
